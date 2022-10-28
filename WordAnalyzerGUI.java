@@ -14,7 +14,22 @@ import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
+
+/**
+ * 
+ * 
+ * @author mackattack
+ * @version 2.1
+ *
+ */
+
 public class WordAnalyzerGUI {
+	
+	/**
+	 * Main method
+	 * @param args main method
+	 * @throws IOException throws IOException
+	 */
 	
 	public static void main(String[] args) throws IOException {
 		
